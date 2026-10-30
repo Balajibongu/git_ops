@@ -5,4 +5,6 @@ name
 email
 country 
 
-
+# database
+language : mysql
+relational and non relational 
