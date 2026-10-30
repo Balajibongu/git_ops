@@ -9,3 +9,7 @@ country
 language : mysql
 relational : mysql
 non relational : mongodb
+
+# backend
+language: java
+authentication type: JWT
