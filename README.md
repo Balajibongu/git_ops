@@ -8,4 +8,4 @@ country
 # database
 language : mysql
 relational : mysql
-and non relational : mongodb 
+non relational : mongodb
