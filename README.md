@@ -7,4 +7,5 @@ country
 
 # database
 language : mysql
-relational and non relational 
+relational : mysql
+and non relational : mongodb 
