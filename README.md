@@ -13,3 +13,4 @@ non relational : mongodb
 # backend
 language: java
 authentication type: JWT
+team size: 8
